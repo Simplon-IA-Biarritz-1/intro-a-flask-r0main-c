@@ -1,0 +1,32 @@
+.reponse {
+    font-size: large;
+}
+
+.formulaire {
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%
+}
+
+.button {
+    background-color: red;
+    width: 15%;
+    margin-left: 4%;
+}
+
+.button_inscrit {
+    background-color: Aquamarine;
+    width: 15%;
+    margin-top: 2%;
+    margin-left: 44%;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
